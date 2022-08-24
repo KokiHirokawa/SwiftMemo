@@ -3,5 +3,6 @@
     <pages>
         <page name='ResultBuilder'/>
         <page name='ResultBuilder+DebugPrinter'/>
+        <page name='TupleView'/>
     </pages>
 </playground>
