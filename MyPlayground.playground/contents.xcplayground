@@ -4,5 +4,6 @@
         <page name='ResultBuilder'/>
         <page name='ResultBuilder+DebugPrinter'/>
         <page name='TupleView'/>
+        <page name='ResultBuilder+If'/>
     </pages>
 </playground>
