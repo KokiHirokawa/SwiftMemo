@@ -7,5 +7,6 @@
         <page name='ResultBuilder+If'/>
         <page name='Lock'/>
         <page name='TypeErasure'/>
+        <page name='Swift Async Algorithms'/>
     </pages>
 </playground>
