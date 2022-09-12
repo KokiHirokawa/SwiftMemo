@@ -8,5 +8,6 @@
         <page name='Lock'/>
         <page name='TypeErasure'/>
         <page name='Swift Async Algorithms'/>
+        <page name='Regex'/>
     </pages>
 </playground>
