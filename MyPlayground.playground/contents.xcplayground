@@ -9,5 +9,6 @@
         <page name='TypeErasure'/>
         <page name='Swift Async Algorithms'/>
         <page name='Regex'/>
+        <page name='PropertyWrapper'/>
     </pages>
 </playground>
