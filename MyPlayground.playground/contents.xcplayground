@@ -10,5 +10,6 @@
         <page name='Swift Async Algorithms'/>
         <page name='Regex'/>
         <page name='PropertyWrapper'/>
+        <page name='AsyncPublisher'/>
     </pages>
 </playground>
