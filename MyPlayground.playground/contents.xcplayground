@@ -11,5 +11,6 @@
         <page name='Regex'/>
         <page name='PropertyWrapper'/>
         <page name='AsyncPublisher'/>
+        <page name='Concurrency in Top-level Code'/>
     </pages>
 </playground>
